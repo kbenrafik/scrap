@@ -1,0 +1,19 @@
+{
+  "name": "crawler-front",
+  "version": "1.0.0",
+  "description": "crawl frontend master",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "benrafik khalid",
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "^1.0.1",
+    "mkdirp-bluebird": "^1.2.0",
+    "phantom": "^3.0.2",
+    "scrapejs": "^1.0.4",
+    "scraperjs": "^1.2.0",
+    "url": "^0.11.0"
+  }
+}
